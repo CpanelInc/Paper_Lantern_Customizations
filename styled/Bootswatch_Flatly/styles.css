@@ -1,0 +1,53 @@
+@import url("/styled/current_style/bootstrap.css");
+
+/* -- cPanel Paper Lantern Bootswatch Adapter --*/
+
+/* Resets */
+
+/* return buttons to default Bootstrap look*/
+.btn {
+    box-shadow: none;
+}
+
+/* ensures that tables within tables don't look recursively styled */
+td table tr, td table td {
+  border:0 !important;
+}
+
+/* turning off the fixed floating header */
+header .navbar-fixed-top {
+    position:relative;
+    top:inherit;
+    width:inherit;
+}
+body {
+    padding-top:0;
+    background:black;
+}
+.navbar {
+    margin-bottom:0;
+}
+
+/* moving icon text to the right of icons on the index page */
+.item {
+    width:200px;
+    height:60px;
+}
+
+.itemImageWrapper {
+    width:58px;
+    float:left;
+}
+
+.itemTextWrapper {
+    text-align:left;
+}
+
+/* turning off the quick links */
+#quickLinks {
+  display:none;
+}
+
+footer {
+  background:none;
+}

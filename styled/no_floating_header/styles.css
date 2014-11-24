@@ -1,0 +1,23 @@
+/* HOWTO: remove the floaty header */
+header .navbar-fixed-top {
+    /* no fixed header */
+    position:relative;
+    top:inherit;
+    width:inherit;
+}
+body {
+    padding-top:0;
+}
+.navbar {
+    margin-bottom:0;
+}
+/* END HOWTO*/
+
+@media (max-width: 767px) {
+    .navbar-subnav {
+        display: none;
+    }
+    body {
+        background:pink;
+    }
+}
