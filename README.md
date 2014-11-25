@@ -8,7 +8,7 @@ Paper Lantern, the newest user interface for cPanel, provides the means to creat
 
 These styles are for use with cPanel & WHM version 11.46 or higher. Before beginning, ensure that you have an installation of cPanel & WHM that has completed the Getting Started Wizard and license check. For more information about how to get set up, please reference http://documentation.cpanel.net/display/ALD/Installation+Guide
 
-The following instructions assume that you have root or reseller access to your cPanel & WHM server, that you have the means of using SSH and that you are familir with the BASH command line.
+The following instructions assume that you have root access to your cPanel & WHM server, that you have the means of using SSH and that you are familiar with the BASH command line.
 
 ### Steps
 1. SSH into your cPanel & WHM server and 
@@ -18,7 +18,7 @@ The following instructions assume that you have root or reseller access to your 
 5. ``git clone {github url} customizations``
 
 ### Verifying the installation
-In order to verify that you have installed these styles correctly, log into a cpanel account on your machine and click the 'Change Styles' menu item in the User Preferences pulldown.  Styles from this project should now appear in the list.
+In order to verify that you have installed these styles correctly, log into a cPanel account on your machine and click the 'Change Styles' menu item in the User Preferences pulldown.  Styles from this project should now appear in the list.
 
 ## How to contribute
 
