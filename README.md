@@ -22,7 +22,7 @@ In order to verify that you have installed these styles correctly, log into a cP
 
 ## How to contribute
 
-TODO: write this
+No contribution guidelines have been established yet. You are welcome to fork and submit pull requests.
 
 ## Licensing
 
