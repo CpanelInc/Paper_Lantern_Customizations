@@ -6,6 +6,10 @@ Paper Lantern, the newest user interface for cPanel, provides the means to creat
 
 TODO: write this
 
+## How to contribute
+
+TODO: write this
+
 ## Licensing
 
 The MIT License (MIT) Copyright (c) 2014 cPanel, Inc. - for more information about the licensing of this document, please review the LICENSE.md file in the project root
