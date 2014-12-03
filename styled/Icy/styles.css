@@ -5927,20 +5927,6 @@ body {
     margin-bottom:0;
 }
 
-/* moving icon text to the right of icons on the index page */
-.item {
-    width:200px;
-}
-
-.itemImageWrapper {
-    width:58px;
-    float:left;
-}
-
-.itemTextWrapper {
-    text-align:left;
-}
-
 /* turning off the quick links */
 #quickLinks {
   display:none;
