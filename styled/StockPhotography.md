@@ -1,7 +1,7 @@
 ---
 layout: page
 title: StockPhotography
-permalink: /StockPhotography/
+permalink: /stock_photography/
 theme: paper_lantern
 cpanel_version: 11.46+
 ---
