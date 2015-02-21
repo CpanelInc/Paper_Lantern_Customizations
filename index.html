@@ -10,7 +10,20 @@ title: Index
     {% unless page.url == '/index.html' %}
     <div class="cpanel_style col-sm-3">
         <img class="img-thumbnail" src="{{ site.url | append: "/styled" | append: page.url | append: "preview.png" }}" />
-        <a class="page-link" href="{{ page.url }}">{{ page.title }} - {{ page.theme}} - {{page.cpanel_version}}</a>
+        <h3>{{ page.title }}</h3>
+        <caption>
+            {{page.description}}
+            <dl class="style_info">
+                <dt>Application</dt>
+                <dd>{{page.application}}</dd>
+                <dt>Theme</dt>
+                <dd>{{page.theme}}</dd>
+                <dt>Min cPanel Version</dt>
+                <dd>{{page.minimum_cpanel_version}}</dd>
+                <dt>Max cPanel Version</dt>
+                <dd>{{page.maximum_cpanel_version}}</dd>
+            </dl>
+        </caption>
     </div>
     {% endunless %}
     {% endfor %}

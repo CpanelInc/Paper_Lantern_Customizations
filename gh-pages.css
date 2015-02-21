@@ -1,3 +1,7 @@
-div.cpanel_style {
-    height:600px;
+.cpanel_style {
+    height:800px;
+}
+
+.cpanel_style caption .prerequisites {
+    display:block;
 }
