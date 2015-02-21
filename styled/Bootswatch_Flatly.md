@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bootswatch Flatly
-permalink: /bootswatch_flatly/
+permalink: /Bootswatch_Flatly/
 theme: paper_lantern
 cpanel_version: 11.46+
 ---
