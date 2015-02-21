@@ -4,8 +4,8 @@ title: Military
 permalink: /Military/
 application: cPanel & WHM
 theme: Paper Lantern
-minimum_cpanel_version: 11.46
-maximum_cpanel_version: 11.50
+minimum_cpanel_version: "11.46"
+maximum_cpanel_version: "11.50"
 ---
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)

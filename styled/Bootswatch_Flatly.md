@@ -4,8 +4,8 @@ title: Bootswatch Flatly
 permalink: /Bootswatch_Flatly/
 application: cPanel & WHM
 theme: Paper Lantern
-minimum_cpanel_version: 11.46
-maximum_cpanel_version: 11.50
+minimum_cpanel_version: "11.46"
+maximum_cpanel_version: "11.50"
 description: This is a description.
 ---
 
