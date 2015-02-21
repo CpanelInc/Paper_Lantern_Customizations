@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tidy
-permalink: /tidy/
+permalink: /Tidy/
 theme: paper_lantern
 cpanel_version: 11.46+
 ---

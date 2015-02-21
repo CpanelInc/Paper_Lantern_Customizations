@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Icy
-permalink: /icy/
+permalink: /Icy/
 theme: paper_lantern
 cpanel_version: 11.46+
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Future
-permalink: /future/
+permalink: /Future/
 theme: paper_lantern
 cpanel_version: 11.46+
 ---

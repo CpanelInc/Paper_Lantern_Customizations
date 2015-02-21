@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Military
-permalink: /military/
+permalink: /Military/
 theme: paper_lantern
 cpanel_version: 11.46+
 ---

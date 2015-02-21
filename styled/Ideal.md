@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ideal
-permalink: /ideal/
+permalink: /Ideal/
 theme: paper_lantern
 cpanel_version: 11.46+
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Butterfly
-permalink: /butterfly/
+permalink: /Butterfly/
 theme: paper_lantern
 cpanel_version: 11.46+
 ---

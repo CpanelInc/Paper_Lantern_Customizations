@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Homebrew
-permalink: /homebrew/
+permalink: /Homebrew/
 theme: paper_lantern
 cpanel_version: 11.46+
 ---

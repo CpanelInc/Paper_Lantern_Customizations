@@ -1,7 +1,7 @@
 ---
 layout: page
 title: No Icons
-permalink: /no_icons/
+permalink: /No_Icons/
 theme: paper_lantern
 cpanel_version: 11.46+
 ---
