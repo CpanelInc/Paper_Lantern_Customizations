@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    {% include head.html %}
+
+    <body>
+        <div class="container">
+            <div class="row">
+
+            {% include header.html %}
+
+            <div class="container">
+                {{ content }}
+            </div> <!-- end: page-content -->
+
+            {% include footer.html %}
+
+            <!-- script references -->
+            <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+            <script src="{{"/js/bootstrap.min.js" | prepend: site.url }}"></script>
+            <script src="{{"/js/scripts.js" | prepend: site.url }}"></script>
+    </body>
+
+</html>

@@ -1,0 +1,19 @@
+---
+layout: default
+title: Index
+---
+
+<h1>Example Styles for Paper Lantern</h1>
+
+<div class="row">
+    {% for page in site.pages | where:"theme","paper_lantern" | sort: "title" %}
+    {% unless page.url == '/index.html' %}
+    <div class="cpanel_style col-sm-3">
+        <img class="img-thumbnail" src="{{ site.url | append: "/styled" | append: page.url | append: "preview.png" }}" />
+        <a class="page-link" href="{{ page.url }}">{{ page.title }} - {{ page.theme}} - {{page.cpanel_version}}</a>
+    </div>
+    {% endunless %}
+    {% endfor %}
+</div> <!-- end: row -->
+
+{% include modal_footer.html %}
